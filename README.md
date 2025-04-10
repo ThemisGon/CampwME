@@ -22,7 +22,9 @@ We used the Model of Norman in our tasks and devided those tasks into 3 categori
 In case you need any help using our application we have provided online help by clicking the button that is located in the bottom right of each page.
 
 Helping guide button
+
 ![Image](https://github.com/user-attachments/assets/50a2638c-e320-4994-a58a-170b5c2b4cd4)
 
 Helping guide page
+
 ![Image](https://github.com/user-attachments/assets/1a2589f6-12b4-4e71-8dd0-45741b8e9c42)
